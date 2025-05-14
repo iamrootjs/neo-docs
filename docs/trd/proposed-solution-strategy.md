@@ -106,15 +106,11 @@ Azure Container Apps is a server-less platform that allows you to maintain less 
 
 ### Azure Containers:
 
-![Azure Containers](/azure-container-apps-containers.png)
-
 ### Azure Container Apps Example:
 
-![Azure Container Apps Example](/example-scenarios-for-azure-container-apps.png)
 
 ### Azure Container Apps using Dapr:
 
-![Azure Container Apps with Dapr](/Azure-Container-Apps-Architecture-for-building-Microservices-using-dapr-1.jpg)
 
 ## Future Considerations:
 
