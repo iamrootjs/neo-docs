@@ -4,7 +4,7 @@ export default withMermaid({
   title: "Tech Accelerator - Neo",
   description: "Documentation Description",
   appearance: "dark",
-  base: "/neo_docs/",
+  base: "/neo-docs/",
   themeConfig: {
     nav: [
       { text: "Home", link: "/" },
